@@ -1,2 +1,4 @@
 # Meta-PG
-thes is an metasploit embeding tool makes exe payload
+thes is an tool for metasploit makes exe payload
+
+give me any advice
